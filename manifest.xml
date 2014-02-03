@@ -1,0 +1,20 @@
+<package>
+  <description brief="velodyne">
+
+     velodyne
+
+  </description>
+  <author>Strohmi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/velodyne</url>
+
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+  
+  <depend package="pcl_ros"/>
+  <depend package="pcl"/>
+
+</package>
+
+
